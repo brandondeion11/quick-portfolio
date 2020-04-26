@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Mission Statement](/IMG_5033.JPG)
-<img src="images/IMG_5033.JPG?raw=true"/>
+<img src="IMG_5033.JPG/IMG_5033.JPG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
