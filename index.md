@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Mission Statement](/sample_page)
 <img src="images/IMG_5033.JPG?raw=true"/>
 
 ---
